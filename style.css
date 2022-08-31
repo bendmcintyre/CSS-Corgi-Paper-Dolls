@@ -152,6 +152,6 @@ main {
 }
 
 .luna {
-    position: relative;
-    left: 864px;
+    position: sticky;
+    left: 1px;
 }
